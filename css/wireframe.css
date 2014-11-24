@@ -1,0 +1,68 @@
+.navbar-brand {
+	/*background: url(../img/logo.jpg) 0 5px no-repeat;*/
+	background-size: 190px;
+	width: 202px;
+	padding: 10px 0 0 0;
+	text-indent: -1000px;
+	overflow: hidden;
+}
+.centered
+{
+    text-align:center;
+}
+body {
+ margin: 0;
+ /*background: url(../img/background.jpg) 0 5px;*/
+ background-color: #222222;*/
+ background-size: 1440px 800px;
+ /*background-repeat:no-repeat;*/
+ display: compact;
+ /*background: linear-gradient(to top, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);*/
+
+ }
+
+
+
+ .container * {
+ 	/*opacity: 1;*/
+ }
+
+ .hours {
+ 	text-align: center;
+
+ }
+
+.sec_name {
+	font:"Helvetica-Light";
+}
+
+.font_sec{
+	font:"Rockwell";
+	font-size: 15px;
+
+}
+
+.bkgnd {
+	/*background: url(../img/background.jpg);*/
+	background-repeat:no-repeat;
+	 background-size: 544px 3500px;
+}
+
+.bkgnd2 {
+	background-color: #fafafa;
+	/*background-repeat:no-repeat;*/
+	 background-size: 544px 1500px;
+
+}
+
+.line-separator {
+height:1px;
+border-bottom:1px solid #222222;
+
+}
+
+.h3{
+
+	padding-bottom: 5px;
+}
+
