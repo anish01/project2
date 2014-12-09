@@ -49,7 +49,7 @@ body {
 }
 
 .bkgnd2 {
-	background-color: #fafafa;
+	background:url(../img/background2.png) #fafafa;
 	/*background-repeat:no-repeat;*/
 	 background-size: 544px 1500px;
 
