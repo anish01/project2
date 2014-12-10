@@ -42,6 +42,10 @@ body {
 
 }
 
+.navbar-inverse {
+	background-color: #fafafa;
+}
+
 .bkgnd {
 	background:url(../img/background2.png);
 	/*background-repeat:no-repeat;*/
