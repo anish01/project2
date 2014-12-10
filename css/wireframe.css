@@ -43,7 +43,8 @@ body {
 }
 
 .navbar-inverse {
-	background-color: #fafafa;
+	background-color: #0091ba;
+	border-color: #0091ba;
 }
 
 .bkgnd {
