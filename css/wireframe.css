@@ -42,20 +42,20 @@ body {
 
 }
 
-.navbar-inverse {
+/*.navbar-inverse {*/
 	/*background-color: #0091ba;*/
 	/*border-color: #0091ba;*/
-	color:black;
+	/*color:black;*/
 
 .navbar 
 {
 	margin-bottom: 0px;
 }
 
-.navbar-inverse li a {
+.navbar .nav > li > a {
     color: blue;
 }
-}
+
 
 .bkgnd {
 	background:url(../img/background2.png);
