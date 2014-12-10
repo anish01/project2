@@ -44,13 +44,13 @@ body {
 
 .bkgnd {
 	background:url(../img/background2.png);
-	/*background-repeat:no-repeat;*/
-	/*background-size: 544px 3500px;*/
+	background-repeat:no-repeat;
+	background-size: 544px 3500px;
 }
 
 .bkgnd2 {
 	background: #fafafa;
-	/*background-repeat:no-repeat;*/
+	background-repeat:no-repeat;
 	 /*background-size: 544px 1500px;*/
 
 }
